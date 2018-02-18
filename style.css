@@ -1,0 +1,40 @@
+header {
+  font-style: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid;
+  padding-bottom: 7px;
+}
+
+header li {
+  text-decoration: underline;
+  margin: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  margin-right: 30px;
+}
+
+li {
+  display: inline;
+}
+
+.logo {
+  color: mediumaquamarine;
+  padding: 0;
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.logo div {
+  margin-left: 10px;
+}
